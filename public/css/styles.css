@@ -1,0 +1,14 @@
+form {
+    align-items: center;
+    justify-content: center;
+    margin-top: 220px;
+    
+}
+
+* {
+    background-color: #ffffff;
+}
+
+.childContainer{
+    background-color: white;
+}
